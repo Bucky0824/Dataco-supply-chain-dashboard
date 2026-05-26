@@ -54,7 +54,7 @@ DataCo Global had no centralised reporting tool. All operational data sat in raw
 - Bar chart: Sales by Market
 - Donut chart: Order Status breakdown
 
-![Page 1 - Executive Overview](screenshots/page1_overview.png)
+![Page 1 - Executive Overview](page1_overview.png)
 
 ---
 
@@ -67,7 +67,7 @@ DataCo Global had no centralised reporting tool. All operational data sat in raw
 - Bar chart: Late Delivery % by Order Region
 - Slicers: Market, Shipping Mode, Date Range
 
-![Page 2 - Delivery Performance](screenshots/page2_delivery.png)
+![Page 2 - Delivery Performance](page2_delivery.png)
 
 ---
 
@@ -80,7 +80,7 @@ DataCo Global had no centralised reporting tool. All operational data sat in raw
 - Scatter chart: Discount Rate vs Profit Ratio with trend line
 - Bar chart: Total Orders by Discount Band
 
-![Page 3 - Profitability](screenshots/page3_profitability.png)
+![Page 3 - Profitability](page3_profitability.png)
 
 ---
 
@@ -93,7 +93,7 @@ DataCo Global had no centralised reporting tool. All operational data sat in raw
 - Donut chart: Sales by Customer Segment
 - Bar chart: Late Delivery % by Segment
 
-![Page 4 - Customer Analysis](screenshots/page4_customer.png)
+![Page 4 - Customer Analysis](page4_customer.png)
 
 ---
 
@@ -105,7 +105,7 @@ DataCo Global had no centralised reporting tool. All operational data sat in raw
 - Bar chart: Fraud Orders by Shipping Mode
 - Line chart: Cancellation Rate % by Month
 
-![Page 5 - Risk & Fraud](screenshots/page5_risk_fraud.png)
+![Page 5 - Risk & Fraud](page5_risk_fraud.png)
 
 ---
 
@@ -156,9 +156,6 @@ DataCo Global had no centralised reporting tool. All operational data sat in raw
 ---
 
 ## Data Preview
-
-![Cleaned Data Preview](screenshots/cleaned_data_preview.png)
-![Column List](screenshots/cleaned_data_columns.png)
 
 > **Note:** Full dataset and .pbix file available on request via email.  
 > Contact: bakhtiyarwarsi8@gmail.com
